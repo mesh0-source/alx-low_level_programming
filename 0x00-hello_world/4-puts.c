@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc puts.c
+gcc -E puts.c -o 4-puts.exe
