@@ -4,7 +4,7 @@
 /*a header here*/
 
 /**
- *main-Assigning a random number n 
+ * main-Assigning a random number n 
  *
  * Return: 0
  */
