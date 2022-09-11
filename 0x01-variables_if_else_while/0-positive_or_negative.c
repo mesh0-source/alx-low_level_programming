@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/*a header here*/
-
-/* main - Assigning a random number */
 /**
- *  Return: 0 
+ * header here
+ * main - Assigning a random numbi
+ * Return: 0 
  */
 
 int main(void)
