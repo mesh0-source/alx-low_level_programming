@@ -8,8 +8,7 @@
 int main(void)
 /*  prints the sign magnitude of n */
 {
-	int n;
-	int 1;
+	int (n % 10);
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
