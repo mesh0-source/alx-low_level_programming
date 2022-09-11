@@ -2,9 +2,12 @@
 #include <stdlib.h>
 #include <time.h>
 
-/*more headers go here */
-
-/*main - Assigning a random number n */
+/**
+ *
+ *
+ * more headers go here
+ * main - Assigning a random number n
+ */
 int main(void)
 {
 /* prints the sign magnitude of n */
