@@ -8,7 +8,6 @@
  *
  * Return: 0
  */
-
 int main(void)
 /*  prints the sign magnitude of n */
 {
