@@ -3,7 +3,9 @@
 #include <time.h>
 /*a header here*/
 
-/*main - Assigning a random number n */
+/*main - Assigning a random number n 
+ *Return: 0
+ */
 
 int main(void)
 /*  prints the sign magnitude of n */
