@@ -4,6 +4,7 @@
 /*a header here*/
 
 /*main - Assigning a random number n */
+
 int main(void)
 /*  prints the sign magnitude of n */
 {
