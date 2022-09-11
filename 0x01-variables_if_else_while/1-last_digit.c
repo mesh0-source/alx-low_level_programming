@@ -9,6 +9,7 @@ int main(void)
 /*  prints the sign magnitude of n */
 {
 	int n;
+	int 1;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
@@ -24,6 +25,6 @@ int main(void)
 	{
 		printf("last digit of %d is %d and is less than 5\n", n, 1);
 	}
-	return (0);
+	return (0)
 }
 
