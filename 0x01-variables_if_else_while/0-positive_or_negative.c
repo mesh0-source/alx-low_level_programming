@@ -1,16 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+/*a header here*/
 
-/**
- * more headers go here
- * main - Assigning a random number n
- */
+/*main - Assigning a random number n */
 int main(void)
+/*  prints the sign magnitude of n */
 {
-/**
- *  prints the sign magnitude of n
- */
 	int n;
 
 	srand(time(0));
