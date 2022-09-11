@@ -3,7 +3,8 @@
 #include <time.h>
 /**
  * header here
- * main - Assigning a random numbi
+ * main - Assigning a random number
+ *
  * Return: 0 
  */
 
