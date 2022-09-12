@@ -14,7 +14,7 @@ for (c = 'a'; c <= 'z'; ++c)
 {
 printf("%c", c);
 }
-while (c = 'z')
+while (c == 'z')
 {
 printf("\n");
 }
