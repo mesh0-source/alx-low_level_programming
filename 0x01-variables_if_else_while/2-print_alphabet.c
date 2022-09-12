@@ -9,12 +9,11 @@
 int main(void)
 {
 char c;
-cirscr ();
 
 for (c = 'a'; c <= 'z'; ++c)
 {
 	printf("%c", c);
-	printf("\n")
+	printf("\n");
 }
 return (0);
 }
