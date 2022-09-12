@@ -11,7 +11,7 @@ int main()
 	char c;
 	for (c = 'a'; c <= 'z'; ++c)
 	{
-		printf("%c""\n", c);
+		printf("%c", c)("\n");
 	}
 	return (0);
 }
