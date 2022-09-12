@@ -12,12 +12,8 @@ char c;
 
 for (c = 'a'; c <= 'z'; ++c)
 {
-printf("%c", c, "\n");
-}
-while (c == 'z')
+printf("%c", c) || printf("\n");
 {
-printf("\n");
-}
 return (0);
 }
 
