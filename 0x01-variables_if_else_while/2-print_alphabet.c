@@ -13,9 +13,7 @@ cirscr ();
 
 for (c = 'a'; c <= 'z'; ++c)
 {
-       putchar(c);
-       putchar ("\n");
-       getch();
+	printf('c'"\n")
 }
 return (0);
 }
