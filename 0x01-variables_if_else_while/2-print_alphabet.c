@@ -9,10 +9,13 @@
 int main(void)
 {
 char c;
+cirscr ();
 
 for (c = 'a'; c <= 'z'; ++c)
 {
-printf("%c", c);
+       putchar(c);
+       putchar ("\n");
+       getch();
 }
 return (0);
 }
