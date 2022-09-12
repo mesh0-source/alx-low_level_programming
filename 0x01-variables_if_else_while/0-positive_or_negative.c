@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* scripting */
+/* a header here */
 
 /**
- * main - Assign a random number to the variable n
- *
+ * main - Assigning a random number n
  * Return: 0 
  */
 
