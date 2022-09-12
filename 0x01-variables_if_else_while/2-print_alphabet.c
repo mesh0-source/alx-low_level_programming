@@ -13,7 +13,8 @@ cirscr ();
 
 for (c = 'a'; c <= 'z'; ++c)
 {
-	printf('c'"\n")
+	printf("%c", c);
+	printf("\n")
 }
 return (0);
 }
