@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 /**
  *main - Assigning a number n
  *Returm:0
