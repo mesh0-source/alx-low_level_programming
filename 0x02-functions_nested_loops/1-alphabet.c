@@ -4,9 +4,9 @@
  * main - Assigning number n
  *
  * Return:0
- *
- * print_alphabet 
  */
+
+/* print_alphabet */
 
 void print_alphabet(void)
 {
