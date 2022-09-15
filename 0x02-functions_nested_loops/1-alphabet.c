@@ -1,11 +1,9 @@
 #include "main.h"
 
 /**
- *main - Assigning a number n
+ *main - check the code
  *
- *Return:0
- *
- *print_alphabet 
+ *Return: Always 0. 
  */
 
 void print_alphabet(void)
